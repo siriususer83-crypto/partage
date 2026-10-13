@@ -1,1 +1,20 @@
-https://github.com/login?client_id=01ab8ac9400c4e429b23&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D01ab8ac9400c4e429b23%26code_challenge%3D9tRUIBDqS3O79u6ipKWqFAAQjBGpHO43QFiVDGWxnxU%26code_challenge_method%3DS256%26get_started_with%3Dcopilot-vscode%26prompt%3Dselect_account%26redirect_uri%3Dhttps%253A%252F%252Fvscode.dev%252Fredirect%26scope%3Dread%253Auser%2Brepo%2Buser%253Aemail%2Bworkflow%26state%3Dhttp%253A%252F%252F127.0.0.1%253A37075%252Fcallback%253Fnonce%253D2NfIoaJPe5p%25252FVNPMJ6NuLA%25253D%25253D
+
+
+établir un cahier des charges en SaaS qui va permettre de gérer le personnel, les bulletins de paie, les permissions, la petite caisse, cnss(on précise juste qu'on as payé tel à se moi car on ne gère pas le moyen de déclarer), l'OTR (paiement de tva on marque juste combien on as payé)
+
+mairie paiement de cnss employé
+
+bulletin de paie , abscence
+maladie
+permission
+
+petite caisse = dépense mentuelle effectué.
+
+les alertes au niveau de tva et cnss
+
+attestation de fin du stage qu'on peut délivré aussi !
+
+document de précise de service !
+
+
+document d'une stagiaire venant d'une structure quelconque comme l'ANPE (stage)
